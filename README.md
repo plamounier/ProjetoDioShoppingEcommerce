@@ -3,10 +3,10 @@ Desafio final do bootcamp d Digital Innovation One.
 
 ## Descrição do Desafio
 Aprender como integrar um Front-end em React com uma API REST (desenvolvida em Node.js). 
+<br/>
+<br/>
+<br/>
 #
-#
-#
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
